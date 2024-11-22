@@ -1,1 +1,1 @@
-Projects/Assignment I created in my Java Programing Class
+Projects/Assignments I created in my Java Programing Class
